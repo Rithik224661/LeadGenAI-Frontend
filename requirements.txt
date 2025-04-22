@@ -1,3 +1,6 @@
 streamlit==1.33.0
 requests==2.31.0
 pandas==2.0.3
+# Add these to your existing requirements
+PyJWT==2.8.0
+streamlit-cookies-controller==0.0.4
